@@ -1,0 +1,27 @@
+#return-to-top-link  { 
+	background: none repeat scroll 0 0 #D23100;
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+    bottom: 6px;
+    color: #FFFFFF;
+    display: none;
+    font-weight: bold;
+    opacity: 0.85;
+	filter:alpha(opacity=85);
+    padding: 12px 20px;
+    position: fixed;
+    right: 6px;
+    text-align: center;
+    text-decoration: none;
+    z-index:1000;
+	font-size: 1.1em;
+}
+#return-to-top-link:hover {
+	opacity:1.0;
+	filter:alpha(opacity=100);
+}
+#start-here {
+	position:absolute;
+	display:none;
+}

@@ -1,0 +1,32 @@
+#filemanager-form #edit-mask-wrapper,
+#filemanager-form #edit-title-wrapper,
+#filemanager-form #edit-file-wrapper {
+  width:300px;
+  float:left;
+}
+#filemanager-form #edit-new-folder-name {
+    float: right;
+}
+#filemanager-form #edit-search,
+#filemanager-form #edit-reset {
+  margin-top:5px;
+}
+#filemanager-form .pager.clear-block {
+  margin-bottom:10px;
+}
+#filemanager-form td {
+  vertical-align:middle;
+}
+#filemanager-form .breadcrumb {
+  color:#999;
+  background:url("icon_folder.gif") no-repeat;
+  padding: 2px 0 2px 20px;
+}
+#filemanager-form #edit-upload {
+  margin-top: 24px;
+}
+#filemanager-form img.folder {
+  padding:0 2px 1px 0;
+  vertical-align:middle;
+  height:14px;
+}

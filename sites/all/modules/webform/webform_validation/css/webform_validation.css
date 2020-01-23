@@ -1,0 +1,28 @@
+.form-item.valid {
+}
+div.error, tr.error {
+	background:transparent;
+	padding:0px;
+}
+div.error {
+	border:none;
+}
+.validation-indicator {
+	height:40px;
+	width:40px;
+	/*position:absolute;
+	right:0;*/
+}
+.validation-indicator.valid {
+	background:url(../images/valid.png) no-repeat;
+}
+.validation-indicator.error {
+	background:url(../images/error.png) no-repeat;
+}
+.validation-indicator.loading {
+	background:url(../images/ajax-loader.gif) no-repeat !important;
+	background-position:4px 4px !important;
+}
+.webform-component {
+	/*position:relative;*/
+}

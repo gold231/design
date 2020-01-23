@@ -1,0 +1,72 @@
+.node-form .logo {
+  float: right; /* LTR */
+  margin: 0 15px 0 0; /* LTR */
+}
+
+/* Partner form elements */
+#partner-select-heading {
+	text-align: right;
+	color: #D23100;
+	padding-right: 25px;
+	font-size: 1.2em;
+}
+.partner-form-element {
+	width: 675px;
+	margin-bottom: 1.2em;
+}
+.partner-form-element .logo {
+  float: left; /* LTR */
+  margin: 0em 1em 0 0; /* LTR */
+}
+.partner-form-element .partner-selector {
+	padding: 0;
+}
+.partner-form-element .checkbox {
+	float: right;
+	background: url(../images/bg_checkbox.png);
+	width: 24px;
+	height: 25px;
+}
+.partner-form-element .checkbox.off { background-position: 0px 0px; }
+.partner-form-element .checkbox.on { background-position: 0px 25px; }
+
+.partner-form-element .partner-details {
+	float: left;
+	width: 500px;
+}
+
+/* Non list partner form element */
+.partner-form-element-non-list .partner-details {
+  position: relative;
+}
+
+/* round the corners of the partner panels */
+.partner-form-element .south { padding: 15px 15px 0 15px; }
+.partner-form-element.off .west-east { background: url(../images/bg_partner_panel_west_east_off.png) repeat-y center !important; }
+.partner-form-element.off .north { background: url(../images/bg_partner_panel_north_off.png) no-repeat top !important; }
+.partner-form-element.off .south { background: url(../images/bg_partner_panel_south_off.png) no-repeat bottom !important;  }
+.partner-form-element.on .west-east { background: url(../images/bg_partner_panel_west_east_on.png) repeat-y center !important; }
+.partner-form-element.on .north { background: url(../images/bg_partner_panel_north_on.png) no-repeat top !important; }
+.partner-form-element.on .south { background: url(../images/bg_partner_panel_south_on.png) no-repeat bottom !important;  }
+
+/* Partner list entry */
+.partner-list-entry {
+	border-top: 1px solid #CCCCCC;
+	padding-top: 15px;
+}
+.partner-list-entry .logo {
+	float: right;
+	margin: 0 0 15px 15px;
+}
+.partner-form-title img {
+  margin: 0 4px 5px 0;
+  vertical-align: middle;
+}
+
+/* Partner status links */
+#partner-status-links {
+  position: relative;
+  top: -5px;
+  left: 15px;
+  font-size: 0.8em;
+}

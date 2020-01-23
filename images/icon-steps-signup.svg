@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="92px" viewBox="0 0 89 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-steps-signup</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Designs---MVP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-93.000000, -579.000000)">
+            <g id="Group" transform="translate(99.000000, 585.000000)">
+                <ellipse id="XMLID_10277_" fill="#45413C" fill-rule="nonzero" opacity="0.15" cx="36" cy="78" rx="33" ry="3"/>
+                <path d="M31.4,22.8 L61,36.6 L58.8,58.8 L53.8,61.4 C49.6,63.6 44.6,64 40,62.2 L37,61 C34.2,60 31.2,59.6 28.2,60 L23.4,60.6 C21.2,61 19,60 17.8,58.2 C17,57.2 17.4,55.8 18.6,55.2 L29,50.4 L16.2,40.8 L31.4,22.8 Z" id="XMLID_10276_" stroke="#45413C" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M10.6,64.2 L1.8,70.4 C1,71 -6.66133815e-16,70.2 0.2,69.4 L3.2,59 C3.2,58.8 3.4,58.6 3.4,58.4 L44.2,1 C44.8,2.16317242e-12 46,-0.2 47,0.6 L51.2,3.6 C52.2,4.2 52.4,5.4 51.6,6.4 L10.8,63.8 C11,63.8 10.8,64 10.6,64.2 Z" id="XMLID_10275_" fill="#046798" fill-rule="nonzero"/>
+                <path d="M6.6,63 C6.6,62.8 6.8,62.6 7,62.4 L49.6,2.2 L47.2,0.4 C46.2,-0.2 45,4.33347802e-13 44.4,0.8 L3.6,58.2 C3.4,58.4 3.4,58.6 3.4,58.8 L0.4,69.2 C0.2,70.2 1.2,70.8 2,70.2 L5,68 L6.6,63 Z" id="XMLID_10274_" fill="#0579B2" fill-rule="nonzero"/>
+                <path d="M10.6,64.2 L1.8,70.4 C1,71 -6.66133815e-16,70.2 0.2,69.4 L3.2,59 C3.2,58.8 3.4,58.6 3.4,58.4 L44.2,1 C44.8,2.16317242e-12 46,-0.2 47,0.6 L51.2,3.6 C52.2,4.2 52.4,5.4 51.6,6.4 L10.8,63.8 C11,63.8 10.8,64 10.6,64.2 Z" id="XMLID_10273_" stroke="#45413C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M16.4,40.4 L13.6,52 C12.8,55.2 9.8,57.2 6.6,56.6 C5,56.4 3.8,54.8 4,53.2 L5.4,40.4 C5.8,36.8 8,33.6 11.4,32 L27.6,24.6 L16.4,40.4 Z" id="XMLID_10272_" fill="#FFFFFF" fill-rule="nonzero"/>
+                <path d="M16.4,40.4 L13.6,52 C12.8,55.2 9.8,57.2 6.6,56.6 C5,56.4 3.8,54.8 4,53.2 L5.4,40.4 C5.8,36.8 8,33.6 11.4,32 L27.6,24.6 L16.4,40.4 Z" id="XMLID_10270_" stroke="#45413C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M27.6,40.6 L12.8,48 C10.8,49 10,51.4 11,53.4 C12.8,57.2 17.6,59 21.4,57.2 L26.8,54.8 C29,53.8 31.4,54 33.4,55.2 L35,56.2 C41.6,60 49.4,61.4 57,59.6 C59.6,59 62.4,59.2 64.8,60.2 L74.2,63.8 C75.6,64.2 77,63.4 77,62 L77,42 C77,40.8 76.2,40 75,40 L73.4,40 C69.2,40 65,39 61.2,37.2 L38.2,26.4 L27.6,40.6 Z" id="XMLID_10269_" fill="#FFFFFF" fill-rule="nonzero"/>
+                <path d="M27.6,40.6 L12.8,48 C10.8,49 10,51.4 11,53.4 C12.8,57.2 17.6,59 21.4,57.2 L26.8,54.8 C29,53.8 31.4,54 33.4,55.2 L35,56.2 C41.6,60 49.4,61.4 57,59.6 C59.6,59 62.4,59.2 64.8,60.2 L74.2,63.8 C75.6,64.2 77,63.4 77,62 L77,42 C77,40.8 76.2,40 75,40 L73.4,40 C69.2,40 65,39 61.2,37.2 L38.2,26.4 L27.6,40.6 Z" id="XMLID_10265_" stroke="#45413C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+.webform { position: relative; }
+.webform-client-form h2 { font-size: 1.4em; margin: 0 0 1.2em; }
+.webform-container-inline { margin: 1em 0; clear: both; }
+.webform-container-inline label { display: block !important; float: left; }

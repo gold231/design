@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Designs---MVP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-96.000000, -746.000000)">
+            <circle id="Oval" stroke="#00CCB0" stroke-width="2" cx="124" cy="774" r="24"/>
+            <path d="M116.478466,774.686292 C115.911483,774.141493 114.992221,774.141493 114.425238,774.686292 C113.858254,775.23109 113.858254,776.114382 114.425238,776.65918 L119.558309,781.591401 C120.127074,782.137911 121.049854,782.135942 121.616087,781.58701 L133.179312,770.377096 C133.743772,769.829883 133.739689,768.9466 133.170192,768.404227 C132.600696,767.861854 131.681443,767.865777 131.116984,768.41299 L120.580353,778.627677 L116.478466,774.686292 Z" id="Path-2" fill="#00CCB0" fill-rule="nonzero"/>
+        </g>
+    </g>
+</svg>
